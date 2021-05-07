@@ -1,7 +1,8 @@
-#bg{
-    background-image: url("images/favicon.jpg.jpg");
-    background-repeat: repeat-x;
+#border{
+    border-style: solid;
+    border-width: 5px 7px 10px 15px;
+    border-color: royalblue ;
+    border-radius: 15px 25px;
 }
-/*body{
-    background-color: red;
-}*/ 
+    
+ 
